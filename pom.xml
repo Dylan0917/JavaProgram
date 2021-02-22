@@ -10,6 +10,7 @@
   <modules>
     <module>Proxy</module>
       <module>JavaIo</module>
+    <module>Algorithm</module>
   </modules>
   <name>JavaProgram</name>
   <packaging>pom</packaging>
